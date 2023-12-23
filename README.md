@@ -10,7 +10,7 @@ Watch the calibration process in action by referring to the provided video files
 <br/>
 <br/>
 
-[<img src="https://github.com/Vipsy-123/XBOX-360-Kinect-Camera-Calibration/assets/111956090/da005f0e-c228-41da-ab47-30eaa794083b" width="50%">](https://github.com/Vipsy-123/XBOX-360-Kinect-Camera-Calibration/assets/111956090/bad3a9e2-3431-4154-b37b-bd95557fecac))
+[<img src="https://github.com/Vipsy-123/XBOX-360-Kinect-Camera-Calibration/assets/111956090/da005f0e-c228-41da-ab47-30eaa794083b" width="50%">](https://github.com/Vipsy-123/XBOX-360-Kinect-Camera-Calibration/assets/111956090/bad3a9e2-3431-4154-b37b-bd95557fecac)
 <br/>
 ## Requirements
 - Libfreenect
